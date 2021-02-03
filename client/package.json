@@ -1,4 +1,5 @@
 {
+  "proxy": "http://localhost:9999",
   "name": "api-keys",
   "version": "0.1.0",
   "private": true,
